@@ -4,7 +4,7 @@ import json
 
 # Replace this with your token (available on hackathon.unit8.com, after logging in)
 # If your request returns {'detail': 'Invalid token.'} then you did not correctly set this variable
-TOKEN_ID = 'PUT YOUR TOKEN HERE'
+TOKEN_ID = 'c6dbf99ddf3075a1f3f10437ab6be872cc534383'
 
 
 if __name__ == '__main__':
